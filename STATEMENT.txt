@@ -3,8 +3,8 @@
 ===========================================================
 
 [General Information]
-1. Author: JaiJai (https://jaijaic.site)
-2. Scope: 2022-2026 NEU Robotics Engineering
+1. Author: NieJiahao https://jhn821.github.io/NieJiahao/
+2. Scope: 2023-2027 NEU-Measurement-and-Control-Course
 3. Purpose: Personal Academic Record & Archive
 
 [Resource Usage Policy]
